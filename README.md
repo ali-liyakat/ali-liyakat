@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **MERN stack and DSA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ali-liyakat](https://github.com/ali-liyakat)
+- Checkout my Portfolio here: [https://liyakat-ali-portfolio.netlify.app/](https://liyakat-ali-portfolio.netlify.app/)
 
 - 📫 How to reach me **aliliyakat902@gmail.com**
 
