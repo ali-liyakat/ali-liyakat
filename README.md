@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aliliyakat902@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mxZGaEGEnuOgFL9v-mH9sg0NMopdWdiC/view?usp=drive_link](RESUME)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mxZGaEGEnuOgFL9v-mH9sg0NMopdWdiC/view?usp=drive_link](https://drive.google.com/file/d/1mxZGaEGEnuOgFL9v-mH9sg0NMopdWdiC/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
