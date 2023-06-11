@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently learning **MERN stack and DSA.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ali-liyakat](https://github.com/ali-liyakat)
-- Checkout my Portfolio here: [https://liyakat-ali-portfolio.netlify.app/](https://liyakat-ali-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [**Github**](https://github.com/ali-liyakat)
+- Checkout my Portfolio here: [**Portfolio**](https://liyakat-ali-portfolio.netlify.app/)
 
 - 📫 How to reach me **aliliyakat902@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1mxZGaEGEnuOgFL9v-mH9sg0NMopdWdiC/view?usp=drive_link)
+- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1mxZGaEGEnuOgFL9v-mH9sg0NMopdWdiC/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
