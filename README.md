@@ -1,11 +1,10 @@
-[![MasterHead](https://tse2.mm.bing.net/th?id=OIP.HlUQ5nhawxfDpiCMLqw3LgHaDr&pid=Api&P=0)]
 <h1 align="center">Hi 👋, I'm Liyakat Ali</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">AI and ML Researcher from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&pid=Api&P=0" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-liyakat&label=Profile%20views&color=0e75b6&style=flat" alt="ali-liyakat" /> </p>
 
-- 🌱 I’m currently learning **MERN stack and DSA.**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/ali-liyakat)
 - Checkout my Portfolio here: [**Portfolio**](https://liyakat-ali-portfolio.netlify.app/)
